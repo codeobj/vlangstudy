@@ -1,5 +1,5 @@
 # vlangstudy
-V语言学习 社区 https://www.vlangstudy.com (暂未开放)
+V语言学习 社区 https://www.vlangstudy.com 
 # V语言简介
 V语言是一种静态类型的编译型编程语言，它与Go类似，也受到 Oberon、Rust、Swift语言的影响。
 
